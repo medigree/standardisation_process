@@ -1,0 +1,56 @@
+{"0": {
+    "doc": "Diagrams",
+    "title": "Adding diagrams",
+    "content": "Diagrams can be added directly inside the markdown files. ",
+    "url": "https://costateixeira.github.io/documentation/diagrams.html#adding-diagrams",
+    "relUrl": "/diagrams.html#adding-diagrams"
+  },"1": {
+    "doc": "Diagrams",
+    "title": "PlantUML",
+    "content": "To add a PlantUML diagram, simply type the PlantUML code inside the PlantUML tags @startuml and @enduml or add inline code with the plantuml! directive. See the link at the end of this page for the source. You can also add mermaid diagrams, using the mermaid! directive in inline code . ",
+    "url": "https://costateixeira.github.io/documentation/diagrams.html#plantuml",
+    "relUrl": "/diagrams.html#plantuml"
+  },"2": {
+    "doc": "Diagrams",
+    "title": "Diagrams",
+    "content": " ",
+    "url": "https://costateixeira.github.io/documentation/diagrams.html",
+    "relUrl": "/diagrams.html"
+  },"3": {
+    "doc": "Editing",
+    "title": "Editing content",
+    "content": "… . ",
+    "url": "https://costateixeira.github.io/documentation/editing.html#editing-content",
+    "relUrl": "/editing.html#editing-content"
+  },"4": {
+    "doc": "Editing",
+    "title": "Editing",
+    "content": " ",
+    "url": "https://costateixeira.github.io/documentation/editing.html",
+    "relUrl": "/editing.html"
+  },"5": {
+    "doc": "Grandchild page",
+    "title": "Grandchild page",
+    "content": "This page shows how to do a 2nd level page: . | Add the page, link to the parent and grandparent (via the titles, not the file names). | Make sure your parent has _has_children set to true. | . ",
+    "url": "https://costateixeira.github.io/documentation/grand-child.html",
+    "relUrl": "/grand-child.html"
+  },"6": {
+    "doc": "Home",
+    "title": "Welcome to the documentation hub",
+    "content": "A simple, ready-to-use template for adding documentation using github pages. Key features: . | Editing done in github | Uses github pages and a github action to deploy the content to &lt;handle&gt;.github.io/&lt;repo&gt; | Supports markdown editing | Supports diagrams (written directly in the markdown): PlantUML, Mermaid, others | Uses the Just-the-docs Jekyll theme . | Search functionality built in | Hierarchical navigation with left-side menu | Other features - feel free to discover | . | . ",
+    "url": "https://costateixeira.github.io/documentation/#welcome-to-the-documentation-hub",
+    "relUrl": "/#welcome-to-the-documentation-hub"
+  },"7": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "https://costateixeira.github.io/documentation/",
+    "relUrl": "/"
+  },"8": {
+    "doc": "Page Structure",
+    "title": "Page Structure",
+    "content": "To achieve hierarchical structure, . ",
+    "url": "https://costateixeira.github.io/documentation/structure.html",
+    "relUrl": "/structure.html"
+  }
+}
